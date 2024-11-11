@@ -33,7 +33,7 @@
 
 [bg storage=black.jpg time=500]
 
-メロスは新たな選択肢を手に入れた。[cm]
+メロスは新たな選択肢を手に入れた。[l][cm]
 
 [jump target=*start2]
 
@@ -49,7 +49,7 @@
 
 [bg storage=black.jpg time=500]
 
-メロスは新たな選択肢を手に入れた。[cm]
+メロスは新たな選択肢を手に入れた。[l][cm]
 
 [jump target=*start2]
 
